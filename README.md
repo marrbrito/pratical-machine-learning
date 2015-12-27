@@ -1,5 +1,7 @@
-﻿Practical Machine Learning Project 
-==================================================================
+Practical Machine Learning Project 
+==================================
+
+Course Project for Practical Machine Learning on Coursera
 
 ### Assignment  
 Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about 
@@ -13,6 +15,12 @@ Weight Lifting Exercise Dataset).
 
 The goal of your project is to predict the manner in which they did the exercise. This is the "classe" variable in the training set. You may use any of the other variables to predict with. You should create a report describing how you built your model, how you used cross validation, what you think the expected out of sample error is, and why you made the choices you did. You will also use your prediction model to predict 20 different test cases.  
 
-Link to the page: [click here](http://github.com.io/marrbrito/pratical-machine-learning/Pratical_Machine_Learning_-_Project_Report.html)
+#### To view html report online, please click
+    
+Link to the page: [click here](http://marrbrito.github.io/pratical-machine-learning/Project_Report.html)
 
-.
+* [Project_Report.Rmd](./project_report.Rmd): R markdown document for course project report.
+
+* [Project_Report.html](./project_report.html): Compiled html file for course project report.
+
+* [Prediction Results](./Results): Folder containing output of all 20 prediction files. 
